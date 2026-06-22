@@ -13,3 +13,5 @@ templateEngineOverride: njk,md
 {% include "postlist.njk" %}
 
 hi
+
+<img src="{{ catpic }}" alt="Random cat" style="max-width: 100%;">
